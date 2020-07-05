@@ -1,0 +1,4 @@
+public int og() {
+    real x = 3.0;
+    return 0;
+}
